@@ -1,0 +1,51 @@
+body{
+
+background-color:#FFF4E0;}
+
+hr{
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: 614124;
+    border-width: 5px;
+    width:5%;
+}
+
+h3{
+color:C64756;
+font-style: normal;
+font-family:'Arial Narrow Bold', sans-serif;
+}
+
+img{
+background-color:#FFF4E0;
+font-family:'Arial Narrow Bold';
+}
+
+p{
+color: C64756;
+font-size:25px;
+text-align: justify;
+font-family:'Arial Narrow Bold';
+}
+
+
+td{
+font-family:'Arial Narrow Bold';
+color: C64756;
+font-size:20px;
+}
+
+li{
+font-family:'Arial Narrow Bold';
+color: C64756;
+font-size:20px;
+}
+
+h4{
+font-family:'Arial Narrow Bold';
+color: C64756;
+font-size:18px;
+}
+
+
